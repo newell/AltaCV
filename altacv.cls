@@ -214,7 +214,7 @@
 \NewInfoField{homepage}{\faGlobe}[https://]
 \NewInfoField{twitter}{\faTwitter}[https://twitter.com/]
 \NewInfoField{linkedin}{\faLinkedin}[https://linkedin.com/in/]
-\NewInfoField{github}{\faGithub}[https://github.com/]
+\NewInfoField{github}{\faGithub}[https://]
 \NewInfoField{orcid}{\aiOrcid}[https://orcid.org/]
 \NewInfoField{location}{\faMapMarker}
 
